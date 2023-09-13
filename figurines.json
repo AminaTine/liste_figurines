@@ -4,7 +4,7 @@
   },
   "Nom": "Blocker",
   "Race": "Troll",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234024858.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234024858.jpg",
   "prix": 50
 },
 {
@@ -13,7 +13,7 @@
   },
   "Nom": "Bomma Dribblesnot ",
   "Race": "Gobelin",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234206487.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234206487.jpg",
   "prix": 32
 },
 {
@@ -22,7 +22,7 @@
   },
   "Nom": "Pogo-stick ",
   "Race": "Gobelin",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234216674.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234216674.jpg",
   "prix": 44
 },
 {
@@ -31,7 +31,7 @@
   },
   "Nom": "Cheerleader ",
   "Race": "Gobelin",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234405979.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234405979.jpg",
   "prix": 14
 },
 {
@@ -40,7 +40,7 @@
   },
   "Nom": "Chainsaw",
   "Race": "Dwarf",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_233841808.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233841808.jpg",
   "prix": 33
 },
 {
@@ -49,7 +49,7 @@
   },
   "Nom": "Blitzer amazone*",
   "Race": "Amazon",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_233813205.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233813205.jpg",
   "prixe": 16
 },
 {
@@ -58,7 +58,7 @@
   },
   "Nom": "Blitzer The claw*",
   "Race": "Skaven",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234334238.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234334238.jpg",
   "prix": 28
 },
 {
@@ -67,7 +67,7 @@
   },
   "Nom": "Champion SP",
   "Race": "Mummy",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_233745073.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233745073.jpg",
   "prix": 5
 },
 {
@@ -76,7 +76,7 @@
   },
   "Nom": "Lineman ",
   "Race": "Orc",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_233908485.jpg",
+  "Images": "hhttps://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233908485.jpg",
   "prix": 13
 },
 {
@@ -85,7 +85,7 @@
   },
   "Nom": "Catcher Big hand SP",
   "Race": "Skaven",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234302203.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234302203.jpg",
   "prix": 33
 },
 {
@@ -94,7 +94,7 @@
   },
   "Nom": "Catcher Norse SP",
   "Race": "Human",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234247328.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234247328.jpg",
   "prix": 12
 },
 {
@@ -103,7 +103,7 @@
   },
   "Nom": "Jordell Freshbreeze",
   "Race": "Elf",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_233934396.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233934396.jpg",
   "prix": 20
 },
 {
@@ -112,7 +112,7 @@
   },
   "Nom": "Two-Headed",
   "Race": "Skaven",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234315647.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234315647.jpg",
   "prix": 40
 },
 {
@@ -121,7 +121,7 @@
   },
   "Nom": "Lineman",
   "Race": "Skaven",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_235323159.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_235323159.jpg",
   "prix": 30
 },
 {
@@ -130,7 +130,7 @@
   },
   "Nom": "Lineman",
   "Race": "Dwarf",
-  "Images": "https://module2-4527240ec3b0.herokuapp.com/PXL_20230204_234120605.jpg",
+  "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234120605.jpg",
   "prix": 10
 },
 {

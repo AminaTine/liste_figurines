@@ -5,7 +5,7 @@
   "Nom": "Blocker",
   "Race": "Troll",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234024858.jpg",
-  "prix": 50
+  "prix": 50$
 },
 {
   "_id": {
@@ -14,7 +14,7 @@
   "Nom": "Bomma Dribblesnot ",
   "Race": "Gobelin",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234206487.jpg",
-  "prix": 32
+  "prix": 32$
 },
 {
   "_id": {
@@ -23,7 +23,7 @@
   "Nom": "Pogo-stick ",
   "Race": "Gobelin",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234216674.jpg",
-  "prix": 44
+  "prix": 44$
 },
 {
   "_id": {
@@ -32,7 +32,7 @@
   "Nom": "Cheerleader ",
   "Race": "Gobelin",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234405979.jpg",
-  "prix": 14
+  "prix": 14$
 },
 {
   "_id": {
@@ -41,7 +41,7 @@
   "Nom": "Chainsaw",
   "Race": "Dwarf",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233841808.jpg",
-  "prix": 33
+  "prix": 33$
 },
 {
   "_id": {
@@ -50,7 +50,7 @@
   "Nom": "Blitzer amazone*",
   "Race": "Amazon",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233813205.jpg",
-  "prixe": 16
+  "prixe": 16$
 },
 {
   "_id": {
@@ -59,7 +59,7 @@
   "Nom": "Blitzer The claw*",
   "Race": "Skaven",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234334238.jpg",
-  "prix": 28
+  "prix": 28$
 },
 {
   "_id": {
@@ -68,7 +68,7 @@
   "Nom": "Champion SP",
   "Race": "Mummy",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233745073.jpg",
-  "prix": 5
+  "prix": 5$
 },
 {
   "_id": {
@@ -77,7 +77,7 @@
   "Nom": "Lineman ",
   "Race": "Orc",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233908485.jpg",
-  "prix": 13
+  "prix": 13$
 },
 {
   "_id": {
@@ -86,7 +86,7 @@
   "Nom": "Catcher Big hand SP",
   "Race": "Skaven",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234302203.jpg",
-  "prix": 33
+  "prix": 33$
 },
 {
   "_id": {
@@ -95,7 +95,7 @@
   "Nom": "Catcher Norse SP",
   "Race": "Human",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234247328.jpg",
-  "prix": 12
+  "prix": 12$
 },
 {
   "_id": {
@@ -104,7 +104,7 @@
   "Nom": "Jordell Freshbreeze",
   "Race": "Elf",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_233934396.jpg",
-  "prix": 20
+  "prix": 20$
 },
 {
   "_id": {
@@ -113,7 +113,7 @@
   "Nom": "Two-Headed",
   "Race": "Skaven",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234315647.jpg",
-  "prix": 40
+  "prix": 40$
 },
 {
   "_id": {
@@ -122,7 +122,7 @@
   "Nom": "Lineman",
   "Race": "Skaven",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_235323159.jpg",
-  "prix": 30
+  "prix": 30$
 },
 {
   "_id": {
@@ -131,7 +131,7 @@
   "Nom": "Lineman",
   "Race": "Dwarf",
   "Images": "https://module2-4527240ec3b0.herokuapp.com/images/figurines/PXL_20230204_234120605.jpg",
-  "prix": 10
+  "prix": 10$
 },
 {
   "_id": {
@@ -140,5 +140,5 @@
   "Nom": "Team",
   "Race": "Skaven",
   "Images": "PXL_20230204_235121931.jpg",
-  "prix": 90
+  "prix": 90$
 }]
